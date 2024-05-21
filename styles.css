@@ -1,0 +1,34 @@
+body {
+    background-color: #ad876f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color: #f7f1e5;
+    border-radius: 5px;
+    padding: 40px;
+    width: 400px;
+}
+
+.form-label {
+    color: #7F7871;
+    font-weight: bold; 
+}
+
+.btn-success, .btn-secondary {
+    background-color: #b09b82;
+    border-color: #b09b82;
+}
+
+img {
+    border-radius: 40px;
+}
+
+.btn-success:hover, .btn-success:active,{
+    background-color: #7F7871;
+    border-color: #7F7871;
+}
